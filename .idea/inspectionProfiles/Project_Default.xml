@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="tqdm" />
+            <item index="1" class="java.lang.String" itemvalue="regex" />
+            <item index="2" class="java.lang.String" itemvalue="transformers" />
+            <item index="3" class="java.lang.String" itemvalue="pysolr" />
+            <item index="4" class="java.lang.String" itemvalue="nltk" />
+            <item index="5" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="6" class="java.lang.String" itemvalue="torch" />
+            <item index="7" class="java.lang.String" itemvalue="numpy" />
+            <item index="8" class="java.lang.String" itemvalue="termcolor" />
+            <item index="9" class="java.lang.String" itemvalue="emoji" />
+            <item index="10" class="java.lang.String" itemvalue="pytorch-transformers" />
+            <item index="11" class="java.lang.String" itemvalue="faiss-cpu" />
+            <item index="12" class="java.lang.String" itemvalue="segtok" />
+            <item index="13" class="java.lang.String" itemvalue="colorama" />
+            <item index="14" class="java.lang.String" itemvalue="flair" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
